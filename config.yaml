@@ -1,4 +1,9 @@
 teams:
+  - name: briolette-maintainers
+    maintainers:
+      - ryjones
+    members:
+      - redpig
   - name: lf-staff
     maintainers:
       - ryjones
@@ -9,4 +14,5 @@ repositories:
   - name: governance
     teams:
       lf-staff: maintain
+      briolette-maintainers: maintain
     visibility: public
