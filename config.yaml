@@ -16,8 +16,3 @@ repositories:
       lf-staff: maintain
       briolette-maintainers: maintain
     visibility: public
-  - name: briolette
-    teams:
-      lf-staff: maintain
-      briolette-maintainers: maintain
-    visibility: public
