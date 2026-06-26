@@ -11,6 +11,11 @@ teams:
     members:
       - thelinuxfoundation
 repositories:
+  - name: .github
+    teams:
+      lf-staff: maintain
+      briolette-maintainers: maintain
+    visibility: public
   - name: governance
     teams:
       lf-staff: maintain
