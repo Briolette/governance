@@ -1,0 +1,5 @@
+# CODEOWNERS for the governance repository
+# Generated from the teams in config.yaml
+
+/CODEOWNERS  @Briolette/lf-staff @Briolette/briolette-maintainers
+/config.yaml @Briolette/lf-staff @Briolette/briolette-maintainers
